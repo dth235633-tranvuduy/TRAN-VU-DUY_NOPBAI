@@ -1,0 +1,1 @@
+print('Aletrt Einstein đã từng nói: Một người không bao giờ mắc sai lầm thì không bao giờ thử điều gì mới.')
