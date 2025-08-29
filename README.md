@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF416C,100:FF4B2B&height=120&section=header&text=TRANG%20README%20CỦA%20EM&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55" alt="Banner Red" />
+</p>
+
+
+
 # TRAN-VU-DUY_NOPBAI
 .👋 Xin chào! Mình là Trần Vũ Duy
 
